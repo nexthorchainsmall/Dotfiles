@@ -58,6 +58,11 @@ No, the changes only affect how the theme appears in the WordPress admin interfa
 1. The Theme Info Changer settings page
 2. Before and after comparison in the Themes page
 
+== Screenshots ==
+
+1. assets/screenshot-1.png - Theme Info Changer settings UI showing uploader and preview.
+2. assets/screenshot-2.png - Themes listing with a custom screenshot applied.
+
 == Changelog ==
 
 = 1.0.0 =
